@@ -2,6 +2,8 @@
 
 More info: http://catnip.fyi/posts/foundry-p1/
 
+I know i suck at naming things, no need to tell me.
+
 This exploit allows you to overwrite arbitrary directories on an unpatched target foundry
 server.
 
